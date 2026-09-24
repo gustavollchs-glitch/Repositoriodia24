@@ -15,11 +15,12 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 
 ## Identificação geral
 
-- Curso e disciplina: `[preencher]`
-- Professor ou orientador: `[preencher]`
+- Curso e disciplina: `[Analise e Desenvolvimento de Sistemas]`
+- Professor ou orientador: `[Isabella Luiza Souza
+]`
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data de início: `[dd/mm/aaaa]`
+- Integrantes: `[Gustavo Luiz Luchesi]`
+- Data de início: `[24/09/2026]`
 
 
 
